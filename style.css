@@ -11,7 +11,8 @@ div {
         font-family: "Jokerman";
       }
 .pic {
-        background-size:cover;
+        background-size:contain;
         background:url("game_Screenshot.PNG");
-        height:100px;
+        height:238px;
+        width:100%
 }
