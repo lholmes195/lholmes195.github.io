@@ -1,4 +1,12 @@
+body {
+        background-color:black;
+}
+
 div {
         font-size:32px;
         color:darkgoldenrod;
       }
+
+body {
+        background-color:blue;
+}
