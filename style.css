@@ -13,4 +13,5 @@ div {
 .pic img {
         background-size:cover;
         background:url("game_Screenshot.PNG");
+        height:100px;
 }
