@@ -13,7 +13,6 @@ div {
 .pic {
         background:url("game_Screenshot.PNG")no-repeat;
         height:238px;
-        img-align: center;
         width:100%;
         background-size:contain;
       }
@@ -21,7 +20,7 @@ div {
         font-size:
                 28px;
         color:white;
-        text-align: left;
+        text-align: center;
         text-decoration: none;
         text-align: left;
         font-family: "Comic Sans MS", cursive, sans-serif
