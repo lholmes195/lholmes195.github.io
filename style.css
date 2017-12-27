@@ -13,7 +13,7 @@ div {
 .pic {
         background:url("game_Screenshot.PNG")no-repeat;
         height:238px;
-        text-align: center;
+        picture-align: center;
         width:100%;
         background-size:contain;
       }
